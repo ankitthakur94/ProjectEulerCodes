@@ -141,8 +141,8 @@ for i in range(1,41):
 	smallest_num_divisible = find_smallest_num_divisible_by_all_nums_till_n_sol2 (i)
 	print ( ' Sol 2 : Smallest number divisible from 1 to {} = {} '.format(i, smallest_num_divisible ) , )
 	
-	smallest_num_divisible = find_smallest_num_divisible_by_all_nums_till_brute_force (i)
-	print ( ' Brute Force : Smallest number divisible from 1 to {} = {} '.format(i, smallest_num_divisible ) , )
+	#smallest_num_divisible = find_smallest_num_divisible_by_all_nums_till_brute_force (i)
+	#print ( ' Brute Force : Smallest number divisible from 1 to {} = {} '.format(i, smallest_num_divisible ) , )
 	
 
 
